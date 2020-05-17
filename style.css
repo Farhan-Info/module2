@@ -3,6 +3,11 @@
   box-sizing: border-box;
 }
 
+a {
+	background-color: rgb(145, 145, 255);
+	color: rgb(100, 100, 90);
+}
+
 h1 {
 	font-size: 27px;
 	font-family: Georgia sans-serif;
